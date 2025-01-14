@@ -1,0 +1,12 @@
+{
+    "font.family": "微软雅黑",
+    "font.size": 12,
+    
+    "database.timezone": "Asia/Shanghai",
+    "database.driver": "sqlite",
+    "database.database": "database.db",
+    
+    "datafeed.name": "akshare",
+    "datafeed.username": "727278",
+    "datafeed.password": "f64d23936f015325816e4855b2d05c30f3352f0795c4d1213b2479d3"
+}
